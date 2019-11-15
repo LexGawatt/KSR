@@ -1,0 +1,5 @@
+L:\OOP\KSR\KSR_var5_v3\bin\Debug\KSR_var5_v3.exe
+L:\OOP\KSR\KSR_var5_v3\bin\Debug\KSR_var5_v3.pdb
+L:\OOP\KSR\KSR_var5_v3\obj\Debug\KSR_var5_v3.exe
+L:\OOP\KSR\KSR_var5_v3\obj\Debug\KSR_var5_v3.pdb
+L:\OOP\KSR\KSR_var5_v3\obj\Debug\KSR_var5_v3.csprojResolveAssemblyReference.cache

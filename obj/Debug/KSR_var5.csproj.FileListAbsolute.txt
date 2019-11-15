@@ -1,0 +1,12 @@
+E:\ИИТ БГУИР\C#\5\KSR_var5\bin\Debug\KSR_var5_v3.exe
+E:\ИИТ БГУИР\C#\5\KSR_var5\bin\Debug\KSR_var5_v3.pdb
+E:\ИИТ БГУИР\C#\5\KSR_var5\obj\Debug\KSR_var5.csprojResolveAssemblyReference.cache
+E:\ИИТ БГУИР\C#\5\KSR_var5\obj\Debug\KSR_var5.csproj.CoreCompileInputs.cache
+E:\ИИТ БГУИР\C#\5\KSR_var5\obj\Debug\KSR_var5_v3.exe
+E:\ИИТ БГУИР\C#\5\KSR_var5\obj\Debug\KSR_var5_v3.pdb
+C:\Users\Vasset\Desktop\C# Вариант 5 к сдаче\5\KSR_var5\obj\Debug\KSR_var5.csprojResolveAssemblyReference.cache
+C:\Users\Vasset\Desktop\C# Вариант 5 к сдаче\5\KSR_var5\obj\Debug\KSR_var5.csproj.CoreCompileInputs.cache
+C:\Users\Vasset\Desktop\C# Вариант 5 к сдаче\5\KSR_var5\obj\Debug\KSR_var5_v3.exe
+C:\Users\Vasset\Desktop\C# Вариант 5 к сдаче\5\KSR_var5\obj\Debug\KSR_var5_v3.pdb
+C:\Users\Vasset\Desktop\C# Вариант 5 к сдаче\5\KSR_var5\bin\Debug\KSR_var5_v3.exe
+C:\Users\Vasset\Desktop\C# Вариант 5 к сдаче\5\KSR_var5\bin\Debug\KSR_var5_v3.pdb
